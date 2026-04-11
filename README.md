@@ -1,5 +1,4 @@
 This is the initial commit of the project. 
-
 It includes:
 Base project structure
 Essential configuration files (e.g., .gitignore, README.md)
